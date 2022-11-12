@@ -6,7 +6,7 @@ Thư viện này tái sử dụng thư viện [python-phonenumbers ](https://git
 
 Cài đặt (thêm vào project như một sub-module):
 ```
-$ git submodule add https://github.com/vic4key/phone-number-extract-and-normalize.git vn_phone_number
+$ git submodule add https://github.com/vn-os/3rd-vn-phone-number.git vn_phone_number
 ```
 
 Sử dụng:
